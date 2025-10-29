@@ -154,14 +154,6 @@ I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work s
 
 ---
 
-## 🐍 Animated Contribution Snake
-> Auto‑generated daily by GitHub Actions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naveenayalla1-CS50/naveenayalla1-CS50/output/snake.svg" alt="snake animation">
-</p>
-
----
-
 ## Contact
 <a href="https://www.linkedin.com/in/naveen-ayalla-091464225/">
   <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Ayalla-blue?style=for-the-badge&logo=linkedin" />
