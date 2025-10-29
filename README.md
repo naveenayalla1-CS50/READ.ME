@@ -1,168 +1,106 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Naveen Ayalla — Senior Data Engineer (GenAI & Databricks)">
+  <img src="assets/banner.png" alt="Naveen Ayalla — Senior Data Engineer | GenAI + Databricks + Cloud Modernization" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Naveen 👋</h1>
-<h3 align="center">Senior Data Engineer — Building AI-powered data platforms for enterprise scale.</h3>
+<h1 align="center">👋 Hi, I'm Naveen Ayalla</h1>
+<h3 align="center">Senior Data Engineer | GenAI + Databricks + Cloud Modernization</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=naveenayalla1-CS50">
-    <img src="https://komarev.com/ghpvc/?username=naveenayalla1-CS50&label=Profile%20Views&color=blue&style=flat" alt="views"/>
+    <img src="https://komarev.com/ghpvc/?username=naveenayalla1-CS50&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
   </a>
 </p>
 
 ---
 
-## 🔧 Toolbelt (local icons — put these images in /assets)
-<p align="center">
-  <img src="Adobe.png" height="42"/> 
-  <img src="Databricks.png" height="42"/> 
-  <img src="AWS.png" height="42"/> 
-  <img src="Azure.png" height="42"/> 
-  <img src="Delta.png" height="42"/> 
-  <img src="PySpark.png" height="42"/> 
-  <img src="Kafka.png" height="42"/> 
-  <img src="Kinesis.png" height="42"/> 
-  <img src="Neptune.png" height="42"/> 
-  <img src="MLflow.png" height="42"/> 
-  <img src="dbt.png" height="42"/> 
-  <img src="SnapLogic.png" height="42"/> 
-  <img src="Salesforce.png" height="42"/> 
-  <img src="D365.png" height="42"/> 
-  <img src="Eloqua.png" height="42"/> 
-  <img src="Powerbi.png" height="42"/> 
-  <img src="Tableau.png" height="42"/> 
-  <img src="SQL.png" height="42"/> 
-  <img src="Python.png" height="42"/>
-</p>
+### 👨‍💻 About Me
+- 🔭 Currently building **AI-powered ETL automation** at **Adobe**
+- 🚀 Migrated legacy **SAP HANA** stored procedures to **Databricks PySpark**
+- 🔌 Enterprise CRM sync with **SnapLogic + D365 + Salesforce**
+- 🧠 **RAG + LLaMA** powered **Mosaic Agents** for pipeline automation
+- ☁️ **AWS, Azure, Databricks, Delta Lake**
+- 🔗 Connect: **<a href="https://www.linkedin.com/in/naveen-ayalla-091464225/">LinkedIn</a>**
 
 ---
 
-## 🧭 Table of Contents
-- [About](#about)
-- [Signature Projects](#-signature-projects)
-- [Playbooks & Templates](#-playbooks--templates)
-- [Dashboards & Analytics](#-dashboards--analytics)
-- [GitHub Stats](#github-stats)
-- [Contributions](#-contributions)
-- [Contact](#contact)
+### 🛠 Tech Stack
 
----
-
-## About
-I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work spans **cloud migrations**, **streaming**, **data quality/observability**, and **agentic analytics** that explain pipelines in natural language.
-
----
-
-## 🚀 Signature Projects
-
-### 🔴 1) Adobe — **GenAI ETL Migration (SAP HANA ➜ Databricks)**
 <p>
-  <img src="Adobe.png" height="28"/> <img src="Databricks.png" height="28"/> <img src="Delta.png" height="28"/> <img src="MLflow.png" height="28"/> <img src="SnapLogic.png" height="28"/> <img src="AWS.png" height="28"/> <img src="PySpark.png" height="28"/>
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="38"/>&nbsp;
+  <!-- Data/AI -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="38"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=spark,kafka,linux" height="38"/>&nbsp;
+  <!-- Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes" height="38"/>&nbsp;
+  <img src="https://dbt-logo.getdbt.com/dbt-logo.svg" height="38" title="dbt"/>
 </p>
 
-**Problem**: Legacy SPs in HANA were hard to maintain and slow to iterate.  
-**Solution**: Replatformed dozens of SPs into **PySpark on Databricks**, implemented **SCD2 history**, **DQ metrics**, and **parity tests**. Built a **Mosaic LLM agent** to explain notebook logic, propose fixes, and auto-generate orchestration tasks.  
-**Architecture**: SnapLogic ➜ Databricks Jobs ➜ Delta Lake (Main + History) ➜ MLflow metadata ➜ DQ dashboards.  
-**Impact**: ~40% faster runtime, **self-documenting** pipelines, safer deployments.
-
----
-
-### ✈️ 2) Southwest Airlines — **Real-Time Ops (Kafka/Kinesis + Neptune Graph)**
 <p>
-  <img src="Kafka.png" height="28"/> <img src="Kinesis.png" height="28"/> <img src="Neptune.png" height="28"/> <img src="Databricks.png" height="28"/> <img src="dbt.png" height="28"/> <img src="AWS.png" height="28"/>
+  <!-- Brand logos (SVGs hosted) -->
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/icons/databricks.svg" height="40" title="Databricks"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/adobe.svg" height="40" title="Adobe"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SnapLogic_logo.svg/2560px-SnapLogic_logo.svg.png" height="26" title="SnapLogic"/>
 </p>
 
-**Problem**: Fragmented event data (crew, gates, tickets) limited operational response.  
-**Solution**: Built **Kafka/Kinesis** pipelines (1M+/min), modeled **crew/route/asset** as a **Neptune** graph, and transformed streams in **Databricks + dbt**.  
-**Architecture**: Producers ➜ Kafka/Kinesis ➜ Databricks Structured Streaming ➜ dbt models ➜ Neptune graph queries.  
-**Impact**: **99.95%** SLA, −35% latency in decision loops, lower ops costs.
+---
+
+### 🚀 Professional Projects
+
+| Project | Organization | Highlights | Tech |
+|---|---|---|---|
+| **AI ETL Autonomous Agent** | Adobe | Migrated legacy **SAP HANA** SPs → **Databricks**; automated validation + orchestration via **LLM agent** | PySpark, Delta Lake, MLflow, LLaMA, RAG, SnapLogic |
+| **CRM Account Sync Digitization** | Adobe | Realtime sync between **Databricks**, **D365 & Salesforce** → unified account hierarchy | D365, REST APIs, SnapLogic, Delta, Python |
+| **Revenue Incentive Analytics** | ADP | Compliance visibility + automated payroll ETL monitoring | SQL, Power BI, ETL |
+| **Student Journey Analytics (GRE/TOEFL)** | ETS | +14% registration completion via funnel + fallout analytics | AWS Glue, Delta Lake, Tableau, Terraform |
+| **Flight Ops & Passenger Insights** | Southwest Airlines | 2TB/day pipelines with 99.95% SLA; -12% abandonment | Kafka, Kinesis, Snowflake, Databricks |
 
 ---
 
-### 🧪 3) Thermo Fisher — **Life Sciences Email Analytics (A/B + Attribution)**
-<p>
-  <img src="Databricks.png" height="28"/> <img src="Delta.png" height="28"/> <img src="Tableau.png" height="28"/> <img src="Powerbi.png" height="28"/> <img src="dbt.png" height="28"/>
-</p>
-
-**Problem**: Multi-channel email events (15M+/day) with weak attribution.  
-**Solution**: Centralized events into **Delta Lake**, standardized **dbt** models, added **statistical A/B**, anomaly detection, and attribution.  
-**Impact**: Verified ~**18%** true lift, **+40%** insight velocity, cleaner campaign analytics.
+### 📦 Featured Repositories (to publish)
+- 🔹 GenAI Agent for Databricks ETL  
+- 🔹 CRM Sync Framework (Dynamics + Salesforce)  
+- 🔹 Delta Lake ETL Templates  
 
 ---
 
-### ✉️ 4) Eloqua ➜ Modern Stack **End-to-End Migration**
-<p>
-  <img src="Eloqua.png" height="28"/> <img src="Databricks.png" height="28"/> <img src="AWS.png" height="28"/> <img src="dbt.png" height="28"/> <img src="SQL.png" height="28"/>
-</p>
+### 📊 GitHub Analytics
 
-- Ingest + normalize Eloqua data, **dbt** semantic layers, **CI/CD** orchestration  
-- Activation-ready tables for BI and downstream CRM sync  
-- Result: Lower time-to-insight, strong lineage & governance
-
----
-
-### 💸 5) ADP — **Revenue & Incentive Analytics**
-<p>
-  <img src="AWS.png" height="28"/> <img src="Powerbi.png" height="28"/> <img src="dbt.png" height="28"/> <img src="SQL.png" height="28"/>
-</p>
-
-- Automated payroll/revenue pipelines with **auditing & controls**
-- Built trusted **finance dashboards** and anomaly alerts 
-- Result: Improved compliance visibility and reduced manual ops
-
----
-
-### 🎓 6) ETS — **Student Journey Analytics (GRE/TOEFL)**
-<p>
-  <img src="AWS.png" height="28"/> <img src="Databricks.png" height="28"/> <img src="Tableau.png" height="28"/> <img src="dbt.png" height="28"/>
-</p>
-
-- Funnel + fallout analytics across registration and prep flows  
-- Scalable infra via Terraform + dbt + Delta Lake  
-- Result: **+14%** registration completion
-
----
-
-## 📚 Playbooks & Templates
-- **Delta Lake SCD2 Upserts**: main + history pattern, audit columns, soft deletes  
-- **DQ Metrics Layer**: run logs, parity checks, thresholds, anomaly detection hooks  
-- **Agentic Explainers**: RAG over notebooks + metadata; “why did my job fail?” in English  
-- **ELT Migration Checklist**: from legacy SPs to PySpark/dbt with test harness
-
----
-
-## 📊 Dashboards & Analytics
-- **Ops KPIs**: latency, SLA, error budgets  
-- **Marketing Performance**: causal lift, cohorts, channel mix  
-- **Finance**: incentive accruals, variance analysis, audit readiness
-
----
-
-## GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=naveenayalla1-CS50&show_icons=true&theme=radical" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenayalla1-CS50&theme=radical" />
 </p>
 
----
-
-## 📈 Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenayalla1-CS50&theme=github-dark" alt="Activity Graph" />
-</p>
-
-## 🐍 Animated Contribution Snake
-> Auto-generated daily by GitHub Actions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naveenayalla1-CS50/naveenayalla1-CS50/output/snake.svg" alt="snake animation">
+  <img src="https://github-profile-trophy.vercel.app/?username=naveenayalla1-CS50&theme=darkhub&margin-w=10" />
 </p>
 
 ---
 
-## Contact
+### 🐍 Animated Contribution Snake
+
+> Auto-generated daily via GitHub Actions
+
+<p align="center">
+  <img src="https://github.com/naveenayalla1-CS50/naveenayalla1-CS50/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+### 🌐 Connect With Me
+
 <p>
-  <a href="mailto:ust12247@adobe.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/naveen-ayalla-091464225/">🔗 LinkedIn</a>
+<a href="https://www.linkedin.com/in/naveen-ayalla-091464225/">
+  <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Ayalla-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
+
+---
+
+### ⚡ Fun Fact
+I write better SQL than emails 😄 (but I automate both with AI 🤖)
+
+---
+
+⭐ If you like my work, please ⭐ my repositories!
