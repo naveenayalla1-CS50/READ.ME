@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Naveen Ayalla — Senior Data Engineer (GenAI & Databricks)">
+  <img src="banner.png" width="100%" alt="Naveen Ayalla — Senior Data Engineer (GenAI & Databricks)">
 </p>
 
 <h1 align="center">Hi, I'm Naveen 👋</h1>
