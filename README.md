@@ -17,25 +17,25 @@
 
 ## 🔧 Toolbelt (always visible — local icons)
 <p>
-  <img src="assets/Adobe.png" height="42"/> 
-  <img src="assets/Databricks.png" height="42"/> 
-  <img src="assets/AWS.png" height="42"/> 
-  <img src="assets/Azure.png" height="42"/> 
-  <img src="assets/Delta.png" height="42"/> 
-  <img src="assets/PySpark.png" height="42"/> 
-  <img src="assets/Kafka.png" height="42"/> 
-  <img src="assets/Kinesis.png" height="42"/> 
-  <img src="assets/Neptune.png" height="42"/> 
-  <img src="assets/MLflow.png" height="42"/> 
-  <img src="assets/dbt.png" height="42"/> 
-  <img src="assets/SnapLogic.png" height="42"/> 
-  <img src="assets/Salesforce.png" height="42"/> 
-  <img src="assets/D365.png" height="42"/> 
-  <img src="assets/Eloqua.png" height="42"/> 
-  <img src="assets/Powerbi.png" height="42"/> 
-  <img src="assets/Tableau.png" height="42"/> 
-  <img src="assets/SQL.png" height="42"/> 
-  <img src="assets/Python.png" height="42"/>
+  <img src="Adobe.png" height="42"/> 
+  <img src="Databricks.png" height="42"/> 
+  <img src="AWS.png" height="42"/> 
+  <img src="Azure.png" height="42"/> 
+  <img src="Delta.png" height="42"/> 
+  <img src="PySpark.png" height="42"/> 
+  <img src="Kafka.png" height="42"/> 
+  <img src="Kinesis.png" height="42"/> 
+  <img src="Neptune.png" height="42"/> 
+  <img src="MLflow.png" height="42"/> 
+  <img src="dbt.png" height="42"/> 
+  <img src="SnapLogic.png" height="42"/> 
+  <img src="Salesforce.png" height="42"/> 
+  <img src="D365.png" height="42"/> 
+  <img src="Eloqua.png" height="42"/> 
+  <img src="Powerbi.png" height="42"/> 
+  <img src="Tableau.png" height="42"/> 
+  <img src="SQL.png" height="42"/> 
+  <img src="Python.png" height="42"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work s
 
 ### 1) Adobe — **GenAI ETL Migration (SAP HANA ➜ Databricks)**
 <p>
-  <img src="assets/Adobe.png" height="30"/> <img src="assets/Databricks.png" height="30"/> <img src="assets/Delta.png" height="30"/> <img src="assets/MLflow.png" height="30"/> <img src="assets/SnapLogic.png" height="30"/> <img src="assets/AWS.png" height="30"/> <img src="assets/PySpark.png" height="30"/>
+  <img src="Adobe.png" height="30"/> <img src="Databricks.png" height="30"/> <img src="Delta.png" height="30"/> <img src="MLflow.png" height="30"/> <img src="SnapLogic.png" height="30"/> <img src="AWS.png" height="30"/> <img src="PySpark.png" height="30"/>
 </p>
 
 **Problem**: Legacy SPs in HANA were hard to maintain and slow to iterate.  
@@ -71,7 +71,7 @@ I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work s
 
 ### 2) Southwest Airlines — **Real‑Time Ops (Kafka/Kinesis + Neptune Graph)**
 <p>
-  <img src="assets/Kafka.png" height="30"/> <img src="assets/Kinesis.png" height="30"/> <img src="assets/Neptune.png" height="30"/> <img src="assets/Databricks.png" height="30"/> <img src="assets/dbt.png" height="30"/> <img src="assets/AWS.png" height="30"/>
+  <img src="Kafka.png" height="30"/> <img src="Kinesis.png" height="30"/> <img src="Neptune.png" height="30"/> <img src="Databricks.png" height="30"/> <img src="dbt.png" height="30"/> <img src="AWS.png" height="30"/>
 </p>
 
 **Problem**: Fragmented event data (crew, gates, tickets) limited operational response.  
@@ -83,7 +83,7 @@ I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work s
 
 ### 3) Thermo Fisher — **Life Sciences Email Analytics (A/B + Attribution)**
 <p>
-  <img src="assets/Databricks.png" height="30"/> <img src="assets/Delta.png" height="30"/> <img src="assets/Tableau.png" height="30"/> <img src="assets/Powerbi.png" height="30"/> <img src="assets/dbt.png" height="30"/>
+  <img src="Databricks.png" height="30"/> <img src="Delta.png" height="30"/> <img src="Tableau.png" height="30"/> <img src="Powerbi.png" height="30"/> <img src="dbt.png" height="30"/>
 </p>
 
 **Problem**: Multi‑channel email events (15M+/day) with weak attribution.  
@@ -94,7 +94,7 @@ I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work s
 
 ### 4) Eloqua ➜ Modern Stack **End‑to‑End Migration**
 <p>
-  <img src="assets/Eloqua.png" height="30"/> <img src="assets/Databricks.png" height="30"/> <img src="assets/AWS.png" height="30"/> <img src="assets/dbt.png" height="30"/> <img src="assets/SQL.png" height="30"/>
+  <img src="Eloqua.png" height="30"/> <img src="Databricks.png" height="30"/> <img src="AWS.png" height="30"/> <img src="dbt.png" height="30"/> <img src="SQL.png" height="30"/>
 </p>
 
 - Ingest + normalize Eloqua data, **dbt** semantic layers, **CI/CD** orchestration  
@@ -105,7 +105,7 @@ I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work s
 
 ### 5) ADP — **Revenue & Incentive Analytics**
 <p>
-  <img src="assets/AWS.png" height="30"/> <img src="assets/Powerbi.png" height="30"/> <img src="assets/dbt.png" height="30"/> <img src="assets/SQL.png" height="30"/>
+  <img src="AWS.png" height="30"/> <img src="Powerbi.png" height="30"/> <img src="dbt.png" height="30"/> <img src="SQL.png" height="30"/>
 </p>
 
 - Automated payroll/revenue pipelines with **auditing & controls**
@@ -116,7 +116,7 @@ I build reliable, scalable **data platforms** and **AI-assisted ETL**. My work s
 
 ### 6) ETS — **Student Journey Analytics (GRE/TOEFL)**
 <p>
-  <img src="assets/AWS.png" height="30"/> <img src="assets/Databricks.png" height="30"/> <img src="assets/Tableau.png" height="30"/> <img src="assets/dbt.png" height="30"/>
+  <img src="AWS.png" height="30"/> <img src="Databricks.png" height="30"/> <img src="Tableau.png" height="30"/> <img src="dbt.png" height="30"/>
 </p>
 
 - Funnel + fallout analytics across registration and prep flows  
