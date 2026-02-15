@@ -35,60 +35,25 @@ I’m a Senior Data Engineer focused on enterprise-grade data architecture and A
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### Pipelines & DataOps
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Fivetran](https://img.shields.io/badge/Fivetran-0076FF?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-### Languages & Analytics
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
 ---
 
 ## 📈 Key Impact Metrics
-- ⚡ Reduced pipeline runtime by **40%** via migration + optimization strategies
-- ✅ Improved ETL reliability to **99.9%** on production workloads
+- ⚡ Reduced pipeline runtime by **40%**
+- ✅ Improved ETL reliability to **99.9%**
 - 🔄 Delivered zero-loss CRM migration across **500K+ records**
-- 📊 Processed **2TB+/day** in distributed ETL/ELT systems
+- 📊 Processed **2TB+/day** in ETL/ELT systems
 - 🌊 Built streaming pipelines handling **50K+ events/sec**
-- 🤖 Increased on-call productivity with **Mosaic AI + RAG-based automation**
 
 ---
 
-## 🏢 Experience Highlights
-- **Adobe** — Senior Data Engineer (Current)
-- **Southwest Airlines** — Senior Data Engineer
-- **ETS** — Senior Data Engineer
-- **Meyocks** — Senior Data Developer
-- **Thermo Fisher Scientific** — Sr. Data Engineer
-- **Medtronic** — Data Engineer
-- **SAP SE** — Data Engineer
-- **Clean Harbors** — Data Engineer
-- **ADP India LLP** — Data Analyst
-- **UnitedHealth Group** — Data Engineer
-
----
-
-## 🌟 Company Logos
-<p align="left">
-  <img src="https://logo.clearbit.com/adobe.com" alt="Adobe" height="40" />
-  <img src="https://logo.clearbit.com/southwest.com" alt="Southwest Airlines" height="40" />
-  <img src="https://logo.clearbit.com/ets.org" alt="ETS" height="40" />
-  <img src="https://logo.clearbit.com/thermofisher.com" alt="Thermo Fisher" height="40" />
-  <img src="https://logo.clearbit.com/medtronic.com" alt="Medtronic" height="40" />
-  <img src="https://logo.clearbit.com/sap.com" alt="SAP" height="40" />
-  <img src="https://logo.clearbit.com/adp.com" alt="ADP" height="40" />
-  <img src="https://logo.clearbit.com/unitedhealthgroup.com" alt="UnitedHealth Group" height="40" />
-</p>
+## 🗂️ Repository Structure
+- `README.md` — professional overview
+- `docs/RESUME.md` — full resume in markdown
+- `resume/Naveen_Ayalla_Resume.docx` — original resume document
+- `assets/logos/` — image/logo assets
 
 ---
 
 ## 📄 Resume
-- Full markdown resume: [`RESUME.md`](./RESUME.md)
-- Original document: `Naveen Ayalla _ Senior Data Engineer Adobe FEB.docx`
+- Full markdown resume: [`docs/RESUME.md`](./docs/RESUME.md)
+- Original document: [`resume/Naveen_Ayalla_Resume.docx`](./resume/Naveen_Ayalla_Resume.docx)
